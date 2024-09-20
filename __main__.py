@@ -1,0 +1,7 @@
+my_string=input('город ')
+print(len(my_string))
+print('привет, как дела?'.upper())
+print('привет, как дела?'.lower())
+print('привет, как дела?'.replace(' ', ''))
+print(my_string[0])
+print(my_string[-1])
